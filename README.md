@@ -18,7 +18,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي قلبي معاك
+> في ليالي الشوق بهواك
+> لمسة إيدك تحييني
+> نار الحب تناديني
 > ...
 
 📄 **[View Full Lyrics →](./lyrics.txt)**
