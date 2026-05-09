@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Mashkalni
+
+This log tracks the cryptographic history and versioning for the song **Mashkalni** (mashkalni).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T15:14:49.458143 | `v1` | `632046decc6cd4a5d7a8073e603d1893f12a97de3108700d29775e0be1be0129` | `c9465f4e3f6008f969bf18e66a7735c61cc1dd815e04681c31cf735ab1874c29` | `2026-05-09_mashkalni-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
